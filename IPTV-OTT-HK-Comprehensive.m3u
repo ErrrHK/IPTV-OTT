@@ -1,4 +1,57 @@
 #EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
+#EXTINF:-1 tvg-name="翡翠" tvg-logo="https://live.fanmingming.cn/tv/翡翠.png",翡翠
+http://cdn.163189.xyz/live/fct4k/stream.m3u8
+#EXTINF:-1 tvg-name="TVBPLUS" tvg-logo="https://live.fanmingming.cn/tv/TVBPLUS.png",TVBPLUS
+http://cdn.163189.xyz/live/tvbp/stream.m3u8
+#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.cn/tv/凤凰中文.png",凤凰中文
+http://cdn.163189.xyz/live/fhzw/stream.m3u8
+#EXTINF:-1 tvg-name="HOY78" tvg-logo="https://live.fanmingming.cn/tv/HOY78.png",HOY78
+http://cdn.163189.xyz/live/hoy/stream.m3u8
+#EXTINF:-1 tvg-name="澳视澳门" tvg-logo="https://live.fanmingming.cn/tv/澳视澳门.png",澳视澳门
+http://cdn.163189.xyz/live/asam/stream.m3u8
+#EXTINF:-1 tvg-name="澳视卫星" tvg-logo="https://live.fanmingming.cn/tv/澳视卫星.png",澳视卫星
+http://cdn.163189.xyz/live/as/stream.m3u8
+#EXTINF:-1 tvg-name="重温经典" tvg-logo="https://live.fanmingming.cn/tv/重温经典.png",重温经典
+http://cdn3.163189.xyz/live/cwjd/stream.m3u8
+#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.cn/tv/凤凰资讯.png",凤凰资讯
+http://cdn3.163189.xyz/live/fhzx/stream.m3u8
+#EXTINF:-1 tvg-name="TVBJ1" tvg-logo="https://live.fanmingming.cn/tv/TVBJ1.png",TVBJ1
+http://cdn3.163189.xyz/live/j1/stream.m3u8
+#EXTINF:-1 tvg-name="翡翠" tvg-logo="https://live.fanmingming.cn/tv/翡翠.png",翡翠
+http://cdn9.163189.xyz/smt1.1.php?id=jade_twn
+#EXTINF:-1 tvg-name="无线华丽" tvg-logo="https://live.fanmingming.cn/tv/无线华丽.png",无线华丽
+http://cdn9.163189.xyz/smt1.1.php?id=Tvbjade
+#EXTINF:-1 tvg-name="华丽翡翠" tvg-logo="https://live.fanmingming.cn/tv/华丽翡翠.png",华丽翡翠
+http://cdn9.163189.xyz/smt1.1.php?id=Wlt
+#EXTINF:-1 tvg-name="无线新闻" tvg-logo="https://live.fanmingming.cn/tv/无线新闻.png",无线新闻
+http://cdn9.163189.xyz/smt1.1.php?id=inews_twn
+#EXTINF:-1 tvg-name="TVB星河" tvg-logo="https://live.fanmingming.cn/tv/TVB星河.png",TVB星河
+http://cdn9.163189.xyz/smt1.1.php?id=Xinhe
+#EXTINF:-1 tvg-name="千禧经典" tvg-logo="https://live.fanmingming.cn/tv/千禧经典.png",千禧经典
+http://cdn9.163189.xyz/smt1.1.php?id=Tvbclassic
+#EXTINF:-1 tvg-name="千禧经典" tvg-logo="https://live.fanmingming.cn/tv/千禧经典.png",千禧经典
+http://cdn9.163189.xyz/smt3.1.1.php?id=Tvbclassic
+#EXTINF:-1 tvg-name="Astro AOD" tvg-logo="https://live.fanmingming.cn/tv/Astro AOD.png",Astro AOD
+http://cdn9.163189.xyz/smt1.1.php?id=Aodhd
+#EXTINF:-1 tvg-name="TVBPLUS" tvg-logo="https://live.fanmingming.cn/tv/TVBPLUS.png",TVBPLUS
+http://cdn5.1678520.xyz/live/?id=tvbp
+#EXTINF:-1 tvg-name="viutv" tvg-logo="https://live.fanmingming.cn/tv/viutv.png",viutv
+http://cdn5.1678520.xyz/live/live2.1.php?id=viu
+#EXTINF:-1 tvg-name="viutv" tvg-logo="https://live.fanmingming.cn/tv/viutv.png",viutv
+http://cdn5.1678520.xyz/live/live2.1.php?id=viu
+#EXTINF:-1 tvg-name="TVB J1" tvg-logo="https://live.fanmingming.cn/tv/TVB J1.png",TVB J1
+http://cdn5.1678520.xyz/live/?id=j1
+#EXTINF:-1 tvg-name="HOY 77" tvg-logo="https://live.fanmingming.cn/tv/HOY 77.png",HOY 77
+http://cdn5.1678520.xyz/live/?id=hoy
+#EXTINF:-1 tvg-name="VIU TV" tvg-logo="https://live.fanmingming.cn/tv/VIU TV.png",VIU TV
+http://cdn5.1678520.xyz/live/?id=viu
+#EXTINF:-1 tvg-name="TVB PLUS" tvg-logo="https://live.fanmingming.cn/tv/TVB PLUS.png",TVB PLUS
+http://cdn.163189.xyz/live/?id=tvbp
+#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.cn/tv/凤凰资讯.png",凤凰资讯
+http://cdn5.1678520.xyz:80/live/live2.1.php?id=fhzx
+#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.cn/tv/凤凰中文.png",凤凰中文
+http://cdn5.1678520.xyz:80/live/live2.1.php?id=fhzw
+
 #EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://live.fanmingming.com/tv/翡翠台.png",翡翠台
 http://aktv-stream.m16tv.cfd/stream/aktv/null/AKTV.m3u8
 #EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://live.fanmingming.com/tv/翡翠台.png",翡翠台
